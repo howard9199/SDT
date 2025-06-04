@@ -88,4 +88,5 @@ dependencies:
     - einops==0.8.0
     - lmdb==1.5.1
     - opencv-python==4.5.2.54
+    - gradio==4.29.0
 prefix: /home/daigang/miniconda3/envs/test
